@@ -12,8 +12,6 @@ C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Todolist.V
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.csprojAssemblyReference.cache
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.AssemblyInfoInputs.cache
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.AssemblyInfo.cs
-C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.csproj.CoreCompileInputs.cache
-C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.RazorAssemblyInfo.cache
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.RazorAssemblyInfo.cs
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.TagHelpers.input.cache
@@ -35,3 +33,18 @@ C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.d
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.pdb
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.genruntimeconfig.cache
 C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.csproj.CopyComplete
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\atk_e\source\repos\Todolist\Todolist\obj\Debug\netcoreapp3.1\Todolist.MvcApplicationPartsAssemblyInfo.cache
